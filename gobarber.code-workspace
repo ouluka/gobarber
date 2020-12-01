@@ -1,0 +1,21 @@
+{
+  "folders": [
+    {
+      "name": "gobarber",
+      "path": "."
+    },
+    {
+      "name": "backend",
+      "path": "backend"
+    },
+    {
+      "name": "web",
+      "path": "web"
+    },
+    {
+      "name": "mobile",
+      "path": "mobile"
+    }
+  ],
+  "settings": {}
+}
